@@ -2,7 +2,7 @@
 
 <h2> 
 <p align="center" color='#686868ff'>MAO-SMS-BOMBER<p/>
- <p align="center"><a href="https://www.facebook.com/mAoVirUs2116/">MBOMB</a></p>
+ <p align="center"><a href="https://www.facebook.com//">MBOMB</a></p>
 </h2>
 
 ### Auther :
@@ -48,7 +48,7 @@
 
 
 
-##### Mao2116
+##### trhacknon
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
