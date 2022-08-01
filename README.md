@@ -7,10 +7,10 @@
 
 ### Auther :
 <p align="center">
-<a href="https://github.com/mao2116"><img title="Github" src="https://img.shields.io/badge/mao2116-grey?style=for-the-badge&logo=github"></a> </p>
+<a href="https://github.com/trhacknon"><img title="Github" src="https://img.shields.io/badge/trhacknon-grey?style=for-the-badge&logo=github"></a> </p>
 
 <p align="center"> 
-<a href="https://www.facebook.com/mAoVirUs2116/"><img title="FaceBook" src="https://img.shields.io/badge/FB-MAO VIRUS-lightgrey?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.facebook.com/"><img title="FaceBook" src="https://img.shields.io/badge/trhacknon-lightgrey?style=for-the-badge&logo=facebook"></a>
 </p>
 
 ## INSTALLATION  :
@@ -21,7 +21,7 @@
 * `pkg install git -y`
 * `pip install requests`
 * `pip install mechanize`
-* `git clone https://github.com/mao2116/MBOMB`
+* `git clone https://github.com/trhacknon/MBOMB`
 * `cd $HOME`
 * `ls`
 * `cd MBOMB`
@@ -31,7 +31,7 @@
 
 
 ## ONE CLICK INSTALLATION :
-* `apt-get update -y && apt-get upgrade -y && pkg install python -y && pkg install python2 -y && pkg install git -y && pip install requests && && pip install mechanize && git clone https://github.com/mao2116/fbomb && cd fbomb && python fbomb.py`
+* `apt-get update -y && apt-get upgrade -y && pkg install python -y && pkg install python2 -y && pkg install git -y && pip install requests && && pip install mechanize && git clone https://github.com/trhacknon/fbomb && cd fbomb && python fbomb.py`
 
 
 ## FOR ANY TIME RUN :
